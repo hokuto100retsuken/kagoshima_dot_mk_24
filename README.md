@@ -3,6 +3,7 @@
 connpass: [鹿児島.mk #24 GitとPull Requestを活用したチーム開発手法の紹介及び体験会](https://kagoshima-mk.connpass.com/event/244158/)
 
 このイベントで使うリポジトリです。
+うわああああああ🤷🏻‍♀️
 
 ## 準備
 
